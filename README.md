@@ -1,6 +1,6 @@
 # `datomic-terraform-example`
 
-This is more of a starter template for integrating Datomic into a service using Terraform.
+This is a starter template for integrating Datomic into a service using Terraform. You can read more about the approach on my site: [Datomic with Terraform](https://theconsultingcto.com/posts/datomic-with-terraform/)
 
 This also assumes you have a global Datomic service set up like [datomic-service](https://github.com/jdhollis/datomic-service).
 
