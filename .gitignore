@@ -1,0 +1,10 @@
+.cpcache
+.datomic-ions
+.nrepl-port
+.suffix
+.terraform
+plan
+pom.xml
+target
+trace.edn
+user.tfvars
