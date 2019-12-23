@@ -10,4 +10,3 @@ rev=$(git rev-parse --short HEAD)
 terraform init \
   -backend-config backend.dev.tfvars \
   -backend-config "key=terraform-example-${suffix}/terraform.tfstate" ${1-}
-

@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 
 suffix=$(cat .suffix)
@@ -13,4 +12,3 @@ terraform plan \
   -var-file user.tfvars \
   -var "suffix=${suffix}" \
   -out plan ${1-}
-
