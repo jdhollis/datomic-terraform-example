@@ -4,6 +4,8 @@ This is a starter template for integrating Datomic into a service using Terrafor
 
 This also assumes you have a global Datomic service set up like [datomic-service](https://github.com/jdhollis/datomic-service).
 
+You might also find my [datomic-http-direct-example](https://github.com/jdhollis/datomic-http-direct-example) and [sqs-driven-ion](https://github.com/jdhollis/sqs-driven-ion) useful.
+
 ## AWS
 
 All Terraform and scripts assume you have the AWS CLI tools installed. On the Mac, you can install them via [Homebrew](https://brew.sh):
