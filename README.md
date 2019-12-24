@@ -1,4 +1,4 @@
-# `datomic-terraform-example`
+# datomic-terraform-example
 
 This is a starter template for integrating Datomic into a service using Terraform. You can read more about the approach on my site: [Datomic with Terraform](https://theconsultingcto.com/posts/datomic-with-terraform/)
 
